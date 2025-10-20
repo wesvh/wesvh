@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Wesvh, a passionate developer with a strong focus on mobile application development, particularly using React Native. My work emphasizes code quality, interoperability, performance optimization, security, and testability.
+I'm Wesvh,  a software engineer focused on **distributed systems, high-availability databases, and cross-platform mobile ecosystems**.  
+My work blends backend scalability with modern front-end and native integrations, emphasizing **clean architecture, observability, and long-term maintainability**.
 
 ---
 
@@ -21,25 +22,52 @@ I'm Wesvh, a passionate developer with a strong focus on mobile application deve
 - 💬 Ask me about: React Native, software architecture, and optimizing application performance.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wesvh/)
 
----
-
-### 🛠️ Technologies & Tools
-
-- **Languages:** Kotlin, Swift, Java, JavaScript(TS), Python
-- **Frameworks:** React Native, Next.js, Flask, SpringBoot
-- **Tools:** Git, Docker, AWS, GCP, Azure
+- 🧩 Experienced in designing **data-intensive systems** with replication, sharding, and partitioning strategies for scalability and fault tolerance.  
+- 📱 Build cross-platform interfaces using **React Native + Expo**, integrating native modules in **Kotlin** and **Swift** for optimal performance.  
+- ⚙️ Develop robust backends with **NestJS**, **ExpressJS**, **.NET 8**, and **Spring Boot**, applying **Clean Architecture** and **DDD** principles.  
+- ☁️ Skilled in deploying and maintaining multi-environment clusters on **Google Kubernetes Engine (GKE)**, **Cloud Build**, **GitLab CI**, and **Azure DevOps**.  
+- 🔒 Focused on **data security**, authentication (JWT, RBAC), and telemetry-based monitoring with LogRocket and APM tools.  
 
 ---
 
-### 📈 Current Focus
+### 🧠 Technical Domains
 
-I'm currently working on:
+| Area | Focus |
+|------|--------|
+| **Backend Engineering** | Modular APIs, event-driven architecture, async pipelines |
+| **Database Engineering** | SQL Server · PostgreSQL · Redis · Firestore · Partitioning & Replication |
+| **Frontend / Mobile** | React Native · Expo SDK 53 · Solito · Next.js · Kotlin · Swift |
+| **Infrastructure** | Docker · Kubernetes (GKE) · Cloud Build · GitLab CI · Azure DevOps |
+| **Architecture** | Clean Architecture · DDD · CQRS · Event Sourcing · Offline-first design |
+| **Testing / QA** | Jest · Playwright · Postman · Newman |
 
-- Developing a recommendation system powered by OpenAI to support commercial estimations and client interactions.
-- Creating detailed diagrams for cloud architectures using Python libraries like Diagrams.
-- Exploring innovative UX/UI designs for better user engagement.
+---
 
-Feel free to check out my repositories to see some of the projects I'm working on. I'm always open to feedback and collaboration!
+### 🔧 Highlighted Work
+
+#### 🟢 TradeGo Ecosystem
+An enterprise-grade platform connecting Ventas, Meca, Merchandising, and Transporters modules across mobile and web.
+
+- Refactored price-worker pipelines with streaming I/O and JSON chunking (11M records per batch).  
+- Automated multi-arch builds with **Docker Buildx** and versioned releases through **GCP Artifact Registry**.  
+- Orchestrated deployments on **GKE-UAT** and **GKE-PRD**, managing resource allocation and scaling policies.
+
+#### 🟡 Distributed Data Layer
+Designed database schemas and replication strategies for large-scale transactional workloads.
+
+- Logical partitioning and asynchronous replication for multi-tenant environments.  
+- Optimized stored procedures and materialized views for real-time analytical queries.  
+- Automated differential backups and fast-restore processes for critical data sets.
+
+---
+
+### 🛠️ Core Stack
+
+**Languages:** TypeScript · C# · Java · Kotlin · Swift · Python  
+**Frameworks:** NestJS · Express · . NET 8 · Spring Boot · React Native · Next.js  
+**Databases:** SQL Server · PostgreSQL · Redis · Firestore  
+**Cloud / CI:** GCP (GKE · Cloud Build) · GitLab CI · Azure DevOps · Docker · Kubernetes  
+**Architecture Patterns:** Clean Architecture · DDD · CQRS · Event Sourcing · Offline-first 
 
 ---
 
